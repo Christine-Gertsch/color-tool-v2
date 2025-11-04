@@ -4,8 +4,7 @@
 An open source tool which works in DrawBot.
 
 ## Project description
-Choosing colors is a challenging task. Random combinations are a starting point, but often fail to match the desired tone.</br> 
-This little tool allows you to quickly generate lots of color combinations.</br>  
+Choosing colors is a challenging task. Random combinations are a starting point, but often fail to match the desired tone. This little tool allows you to quickly generate lots of color combinations.</br>  
 Saturation and luminosity are selected using sliders, the hue is given a random value each time the program is run (repeat cmd r).
 
 <img width="1243" height="1012" alt="ColorCombinator-3colors-CGertsch" src="https://github.com/user-attachments/assets/4dc1c41b-eb79-452a-9345-ce392cfbd8e4" />
