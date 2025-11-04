@@ -11,8 +11,8 @@ Saturation and luminosity are selected using sliders, the hue is given a random 
 <img width="1243" height="1012" alt="ColorCombinator-3colors-CGertsch" src="https://github.com/user-attachments/assets/4dc1c41b-eb79-452a-9345-ce392cfbd8e4" />
 You can fix one or several generated colors and only update the others. The RGB and hex values are written to the console for use in other environments.
 The tool is free and open source, developed in DrawBot with Python.</br>  
-<img width="470" height="350" alt="ColorCombinator-4colors-tags-CGertsch" src="https://github.com/user-attachments/assets/fc68d422-c563-4287-b606-6900e66a6da5" />
-<img width="470" height="350" alt="ColorCombinator-2colors-CGertsch" src="https://github.com/user-attachments/assets/a4d929d6-811e-4182-8b03-07f1b1d3d19c" />
+<img width="800" height="350" alt="ColorCombinator-4colors-tags-CGertsch" src="https://github.com/user-attachments/assets/fc68d422-c563-4287-b606-6900e66a6da5" />
+<img width="800" height="350" alt="ColorCombinator-2colors-CGertsch" src="https://github.com/user-attachments/assets/a4d929d6-811e-4182-8b03-07f1b1d3d19c" />
 
 
 ## Setup & Installation
